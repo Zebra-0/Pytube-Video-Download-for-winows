@@ -8,7 +8,7 @@ from tkinter import *
 from pytube import YouTube
 from PIL import ImageTk, Image
 from urllib.request import urlopen
-from tkmacosx import Button
+from tkinter import Button
 
 # https://youtu.be/DKbfBSrjVHA (link teste)
 
